@@ -1,9 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:stacked/stacked.dart';
-import 'package:vgts_plugin/form/image_field.dart';
 import 'package:vgts_plugin/form/utils/form_field_controller.dart';
-import 'package:vgts_plugin/vgts_plugin.dart';
 import 'package:vgts_plugin_example/currency.dart';
 
 class CreateCompanyViewModel extends BaseViewModel {
